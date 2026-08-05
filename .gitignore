@@ -1,0 +1,49 @@
+# Python environments
+.venv/
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor and assistant files
+.vscode/
+.codex
+.codex/
+
+# Raw data
+data/
+*.sav
+
+# Generated results
+results*/
+outputs/
+checkpoints/
+*.npy
+*.pt
+
+# Slurm output
+*.out
+*.err
+
+# Generated analysis files
+holdout_predicted_probabilities*.csv
+method_summary*.csv
+pairwise_n_eff_YX.csv
+YX_pairwise_association.csv
+Y_by_X_association.csv
+Y_ranked_by_X_association.csv
+ranked_Y_for_goalA.csv
+
+# System files
+.DS_Store
+
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Local papers and references
+paper/

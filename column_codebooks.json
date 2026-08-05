@@ -1,0 +1,580 @@
+{
+  "HAPPEN2_c_W61": {
+    "1": "Will definitely happen",
+    "2": "Will probably happen",
+    "3": "Will probably not happen",
+    "4": "Will definitely not happen"
+  },
+  "HAPPEN2_e_W61": {
+    "1": "Will definitely happen",
+    "2": "Will probably happen",
+    "3": "Will probably not happen",
+    "4": "Will definitely not happen"
+  },
+  "HAPPEN2_f_W61": {
+    "1": "Will definitely happen",
+    "2": "Will probably happen",
+    "3": "Will probably not happen",
+    "4": "Will definitely not happen"
+  },
+  "HAPPEN2_i_W61": {
+    "1": "Will definitely happen",
+    "2": "Will probably happen",
+    "3": "Will probably not happen",
+    "4": "Will definitely not happen"
+  },
+  "HAPPEN3_a_W61": {
+    "1": "Will definitely happen",
+    "2": "Will probably happen",
+    "3": "Will probably not happen",
+    "4": "Will definitely not happen"
+  },
+  "HAPPEN3_h_W61": {
+    "1": "Will definitely happen",
+    "2": "Will probably happen",
+    "3": "Will probably not happen",
+    "4": "Will definitely not happen"
+  },
+  "HAPPEN3_j_W61": {
+    "1": "Will definitely happen",
+    "2": "Will probably happen",
+    "3": "Will probably not happen",
+    "4": "Will definitely not happen"
+  },
+  "WINLOSE_W61": {
+    "1": "Losing more often than winning",
+    "2": "Winning more often than losing"
+  },
+  "PRES1_a_W61": {
+    "1": "Not at all important",
+    "2": "Not too important",
+    "3": "Somewhat important",
+    "4": "Very important"
+  },
+  "PRES1_b_W61": {
+    "1": "Not at all important",
+    "2": "Not too important",
+    "3": "Somewhat important",
+    "4": "Very important"
+  },
+  "PRES1_c_W61": {
+    "1": "Not at all important",
+    "2": "Not too important",
+    "3": "Somewhat important",
+    "4": "Very important"
+  },
+  "PRES1_d_W61": {
+    "1": "Not at all important",
+    "2": "Not too important",
+    "3": "Somewhat important",
+    "4": "Very important"
+  },
+  "CAND_a_W61": {
+    "1": "Never heard of this person",
+    "2": "Not at all religious\n            \n            ",
+    "3": "Not too religious",
+    "4": "Somewhat religious",
+    "5": "Very religious"
+  },
+  "CAND_b_W61": {
+    "1": "Never heard of this person",
+    "2": "Not at all religious\n            \n            ",
+    "3": "Not too religious",
+    "4": "Somewhat religious",
+    "5": "Very religious"
+  },
+  "CAND_c_W61": {
+    "1": "Never heard of this person",
+    "2": "Not at all religious\n            \n            ",
+    "3": "Not too religious",
+    "4": "Somewhat religious",
+    "5": "Very religious"
+  },
+  "CAND_d_W61": {
+    "1": "Never heard of this person",
+    "2": "Not at all religious\n            \n            ",
+    "3": "Not too religious",
+    "4": "Somewhat religious",
+    "5": "Very religious"
+  },
+  "CAND_e_W61": {
+    "1": "Never heard of this person",
+    "2": "Not at all religious\n            \n            ",
+    "3": "Not too religious",
+    "4": "Somewhat religious",
+    "5": "Very religious"
+  },
+  "CAND_f_W61": {
+    "1": "Never heard of this person",
+    "2": "Not at all religious\n            \n            ",
+    "3": "Not too religious",
+    "4": "Somewhat religious",
+    "5": "Very religious"
+  },
+  "TRUMPRELIG_W61": {
+    "1": "Atheist",
+    "2": "Buddhist",
+    "3": "Catholic",
+    "4": "Christian (VOL)",
+    "5": "Jewish",
+    "6": "Muslim",
+    "7": "Not sure",
+    "8": "Nothing in particular",
+    "9": "Protestant (includes incorrect Protestant denoms, such as Baptist, nondenominational, etc)",
+    "10": "Something else"
+  },
+  "INC2_a_W61": {
+    "1": "No, did not have difficulty paying for this",
+    "2": "Yes, had difficulty paying for this"
+  },
+  "INC2_b_W61": {
+    "1": "No, did not have difficulty paying for this",
+    "2": "Yes, had difficulty paying for this"
+  },
+  "INC2_c_W61": {
+    "1": "No, did not have difficulty paying for this",
+    "2": "Yes, had difficulty paying for this"
+  },
+  "INC2_d_W61": {
+    "1": "No, did not have difficulty paying for this",
+    "2": "Yes, had difficulty paying for this"
+  },
+  "TRUMPISSUE1_W61": {
+    "1": "A few issues",
+    "2": "All or nearly all issues",
+    "3": "Many, but not all issues",
+    "4": "No or almost no issues"
+  },
+  "TRUMPISSUE2_W61": {
+    "1": "Don\u2019t like the way he conducts himself",
+    "2": "Have mixed feelings about the way he conducts himself",
+    "3": "Like the way he conducts himself"
+  },
+  "TRUMPDESC_a_W61": {
+    "1": "Fairly well",
+    "2": "Not at all well",
+    "3": "Not too well",
+    "4": "Very well"
+  },
+  "TRUMPDESC_b_W61": {
+    "1": "Fairly well",
+    "2": "Not at all well",
+    "3": "Not too well",
+    "4": "Very well"
+  },
+  "TRUMPDESC_c_W61": {
+    "1": "Fairly well",
+    "2": "Not at all well",
+    "3": "Not too well",
+    "4": "Very well"
+  },
+  "TRUMPDESC_d_W61": {
+    "1": "Fairly well",
+    "2": "Not at all well",
+    "3": "Not too well",
+    "4": "Very well"
+  },
+  "TRUMPDESC_e_W61": {
+    "1": "Fairly well",
+    "2": "Not at all well",
+    "3": "Not too well",
+    "4": "Very well"
+  },
+  "TRUMPDESC_f_W61": {
+    "1": "Fairly well",
+    "2": "Not at all well",
+    "3": "Not too well",
+    "4": "Very well"
+  },
+  "TRUMPDESC_g_W61": {
+    "1": "Fairly well",
+    "2": "Not at all well",
+    "3": "Not too well",
+    "4": "Very well"
+  },
+  "TRUMPHELP_a_W61": {
+    "1": "Has not made much difference",
+    "2": "Trump administration has HELPED this group",
+    "3": "Trump administration has HURT this group"
+  },
+  "TRUMPHELP_b_W61": {
+    "1": "Has not made much difference",
+    "2": "Trump administration has HELPED this group",
+    "3": "Trump administration has HURT this group"
+  },
+  "TRUMPHELP_c_W61": {
+    "1": "Has not made much difference",
+    "2": "Trump administration has HELPED this group",
+    "3": "Trump administration has HURT this group"
+  },
+  "TRUMPHELP_d_W61": {
+    "1": "Has not made much difference",
+    "2": "Trump administration has HELPED this group",
+    "3": "Trump administration has HURT this group"
+  },
+  "TRUMPHELP_e_W61": {
+    "1": "Has not made much difference",
+    "2": "Trump administration has HELPED this group",
+    "3": "Trump administration has HURT this group"
+  },
+  "ISUPP_W61": {
+    "1": "The U.S. is not supportive enough of Israel",
+    "2": "The U.S. is too supportive of Israel",
+    "3": "The level of U.S. support for Israel is about right"
+  },
+  "COEX_W61": {
+    "1": "No, cannot coexist peacefully",
+    "2": "Yes, can coexist peacefully"
+  },
+  "RELIGMINORITY_W61": {
+    "1": "No, do not consider myself part of a minority group because of my religious beliefs",
+    "2": "Yes, consider myself part of a minority group because of my religious beliefs"
+  },
+  "RELIGCONFLICT_W61": {
+    "1": "A great deal of conflict",
+    "2": "No conflict at all",
+    "3": "Not much conflict",
+    "4": "Some conflict"
+  },
+  "PPLFAV_a_W61": {
+    "1": "Mostly favorable",
+    "2": "Mostly unfavorable",
+    "3": "Never heard of this person",
+    "4": "Very favorable",
+    "5": "Very unfavorable\n\t        \n\t        "
+  },
+  "PPLFAV_b_W61": {
+    "1": "Mostly favorable",
+    "2": "Mostly unfavorable",
+    "3": "Never heard of this person",
+    "4": "Very favorable",
+    "5": "Very unfavorable\n\t        \n\t        "
+  },
+  "PPLFAV_c_W61": {
+    "1": "Mostly favorable",
+    "2": "Mostly unfavorable",
+    "3": "Never heard of this person",
+    "4": "Very favorable",
+    "5": "Very unfavorable\n\t        \n\t        "
+  },
+  "CHR_INFL1_W61": {
+    "1": "Decreasing",
+    "2": "Increasing",
+    "3": "Not changing very much"
+  },
+  "CHR_INFL2_W61": {
+    "1": "A permanent change",
+    "2": "A temporary change that may reverse itself in the future"
+  },
+  "CHR_INFL3_a_W61": {
+    "1": "Major cause of Christianity\u2019s declining influence",
+    "2": "Minor cause of Christianity\u2019s declining influence",
+    "3": "Not a cause of Christianity\u2019s declining influence"
+  },
+  "CHR_INFL3_b_W61": {
+    "1": "Major cause of Christianity\u2019s declining influence",
+    "2": "Minor cause of Christianity\u2019s declining influence",
+    "3": "Not a cause of Christianity\u2019s declining influence"
+  },
+  "CHR_INFL3_c_W61": {
+    "1": "Major cause of Christianity\u2019s declining influence",
+    "2": "Minor cause of Christianity\u2019s declining influence",
+    "3": "Not a cause of Christianity\u2019s declining influence"
+  },
+  "CHR_INFL3_d_W61": {
+    "1": "Major cause of Christianity\u2019s declining influence",
+    "2": "Minor cause of Christianity\u2019s declining influence",
+    "3": "Not a cause of Christianity\u2019s declining influence"
+  },
+  "CHR_INFL3_e_W61": {
+    "1": "Major cause of Christianity\u2019s declining influence",
+    "2": "Minor cause of Christianity\u2019s declining influence",
+    "3": "Not a cause of Christianity\u2019s declining influence"
+  },
+  "CHR_INFL4_a_W61": {
+    "1": "Major cause of Christianity\u2019s declining influence",
+    "2": "Minor cause of Christianity\u2019s declining influence",
+    "3": "Not a cause of Christianity\u2019s declining influence"
+  },
+  "CHR_INFL4_b_W61": {
+    "1": "Major cause of Christianity\u2019s declining influence",
+    "2": "Minor cause of Christianity\u2019s declining influence",
+    "3": "Not a cause of Christianity\u2019s declining influence"
+  },
+  "CHR_DECOE_W61": {
+    "1": "Change/deterioration of traditional family structure/bad parenting",
+    "2": "Church is too strict/rigid/outdated",
+    "3": "Decline in Morals",
+    "4": "Democrats/liberals",
+    "5": "Entertainment/Hollywood/Celebrities",
+    "6": "General change in culture (secularism/atheism/different value systems)",
+    "7": "Hypocritical/hateful Christians",
+    "8": "LGBTQ",
+    "9": "Link between religion and right-wing politics/Trump/Pence",
+    "10": "Money/materialism/selfishness/consumerism",
+    "11": "No in CHR_DECOE",
+    "12": "Other/unsure",
+    "13": "People are lazy",
+    "14": "People have come to believe that God/Bible are not real",
+    "15": "People too busy for religion",
+    "16": "Preachers/Christians spreading watered down/false message",
+    "17": "Religion is being taken out of schools/schools are indoctrinating children",
+    "18": "Religion is no longer a priority/people are apathetic",
+    "19": "Religious leaders misbehaving",
+    "20": "Science/Education/Modern Knowledge are taking the place of religion",
+    "21": "Technology/internet/social media",
+    "22": "The Devil",
+    "23": "The press/media",
+    "24": "Young people are no longer interested"
+  },
+  "CHR_INFL5_a_W61": {
+    "1": "Major cause of Christianity\u2019s growing influence",
+    "2": "Minor cause of Christianity\u2019s growing influence",
+    "3": "Not a cause of Christianity\u2019s growing influence"
+  },
+  "CHR_INFL5_b_W61": {
+    "1": "Major cause of Christianity\u2019s growing influence",
+    "2": "Minor cause of Christianity\u2019s growing influence",
+    "3": "Not a cause of Christianity\u2019s growing influence"
+  },
+  "CHR_INFL5_c_W61": {
+    "1": "Major cause of Christianity\u2019s growing influence",
+    "2": "Minor cause of Christianity\u2019s growing influence",
+    "3": "Not a cause of Christianity\u2019s growing influence"
+  },
+  "CHR_INFL5_d_W61": {
+    "1": "Major cause of Christianity\u2019s growing influence",
+    "2": "Minor cause of Christianity\u2019s growing influence",
+    "3": "Not a cause of Christianity\u2019s growing influence"
+  },
+  "CHR_INFL5_e_W61": {
+    "1": "Major cause of Christianity\u2019s growing influence",
+    "2": "Minor cause of Christianity\u2019s growing influence",
+    "3": "Not a cause of Christianity\u2019s growing influence"
+  },
+  "CHR_INFL5_f_W61": {
+    "1": "Major cause of Christianity\u2019s growing influence",
+    "2": "Minor cause of Christianity\u2019s growing influence",
+    "3": "Not a cause of Christianity\u2019s growing influence"
+  },
+  "CHR_INFL5_g_W61": {
+    "1": "Major cause of Christianity\u2019s growing influence",
+    "2": "Minor cause of Christianity\u2019s growing influence",
+    "3": "Not a cause of Christianity\u2019s growing influence"
+  },
+  "CHR_INCROE_W61": {
+    "1": "Christians pushing back against secularism/the left",
+    "2": "Divine intervention/living in the end times",
+    "3": "Ignorance",
+    "4": "Lobbying/money",
+    "5": "No in CHR_INCROE",
+    "6": "Other/unsure",
+    "7": "People seeking something in the face of precarity/adversity",
+    "8": "Prayer/reading Bible",
+    "9": "Racism/Islamophobia/Xenophobia/fear of the other",
+    "10": "Social Media/Internet",
+    "11": "The press/media",
+    "12": "Trump/GOP/Conservative/courts/right-wing pandering"
+  },
+  "BIBLE_INFL1_W61": {
+    "1": "A great deal",
+    "2": "None at all",
+    "3": "Not much",
+    "4": "Some"
+  },
+  "BIBLE_INFL2_W61": {
+    "1": "The Bible",
+    "2": "The will of the people"
+  },
+  "ELECT_TRUMP_W61": {
+    "1": "God chose Trump to become president because God approves of Trump\u2019s policies",
+    "2": "God does not get involved in U.S. presidential elections",
+    "3": "I do not believe in God",
+    "4": "Trump\u2019s election must be part of God\u2019s overall plan, but doesn\u2019t necessarily mean God approves of Trump\u2019s policies"
+  },
+  "ELECT_OBAMA_W61": {
+    "1": "God chose Obama to become president because God approved of Obama\u2019s policies",
+    "2": "God does not get involved in U.S. presidential elections",
+    "3": "I do not believe in God",
+    "4": "Obama\u2019s election must have been part of God\u2019s overall plan, but doesn\u2019t necessarily mean God approved of Obama\u2019s policie"
+  },
+  "F_METRO": {
+    "1": "Metropolitan",
+    "2": "Non-metropolitan"
+  },
+  "F_CREGION": {
+    "1": "Midwest",
+    "2": "Northeast",
+    "3": "South",
+    "4": "West"
+  },
+  "F_AGECAT": {
+    "1": "18-29",
+    "2": "30-49",
+    "3": "50-64",
+    "4": "65+"
+  },
+  "F_SEX": {
+    "1": "Male",
+    "2": "Female"
+  },
+  "F_EDUCCAT": {
+    "1": "H.S. graduate or less",
+    "2": "Some College",
+    "3": "College graduate+"
+  },
+  "F_EDUCCAT2": {
+    "1": "Associate's degree",
+    "2": "College graduate/some post grad",
+    "3": "High school graduate",
+    "4": "Less than high school",
+    "5": "Postgraduate",
+    "6": "Some college, no degree"
+  },
+  "F_HISP": {
+    "1": "No",
+    "2": "Yes"
+  },
+  "F_RACECMB": {
+    "1": "Asian or Asian-American",
+    "2": "Black or African American",
+    "3": "Mixed Race",
+    "4": "Or some other race",
+    "5": "White"
+  },
+  "F_RACETHN": {
+    "1": "Black non-Hispanic",
+    "2": "Hispanic",
+    "3": "Other",
+    "4": "White non-Hispanic"
+  },
+  "F_CITIZEN": {
+    "1": "No",
+    "2": "Yes"
+  },
+  "F_NATIVITY2": {
+    "1": "Another country",
+    "2": "Cuba",
+    "3": "Mexico",
+    "4": "Other U.S. territory",
+    "5": "Puerto Rico",
+    "6": "U.S."
+  },
+  "F_MARITAL": {
+    "1": "Divorced",
+    "2": "Living with a partner",
+    "3": "Married",
+    "4": "Never been married",
+    "5": "Separated",
+    "6": "Widowed"
+  },
+  "F_RELIG": {
+    "1": "Agnostic",
+    "2": "Atheist",
+    "3": "Buddhist",
+    "4": "Hindu",
+    "5": "Jewish",
+    "6": "Mormon (Church of Jesus Christ of Latter-day Saints or LDS)",
+    "7": "Muslim",
+    "8": "Nothing in particular",
+    "9": "Orthodox (such as Greek, Russian, or some other Orthodox church)",
+    "10": "Other",
+    "11": "Protestant",
+    "12": "Roman Catholic"
+  },
+  "F_BORN": {
+    "1": "No",
+    "2": "Yes"
+  },
+  "F_ATTEND": {
+    "1": "A few times a year",
+    "2": "More than once a week",
+    "3": "Never",
+    "4": "Once a week",
+    "5": "Once or twice a month",
+    "6": "Seldom"
+  },
+  "F_RELIMP": {
+    "1": "Not at all important",
+    "2": "Not too important",
+    "3": "Somewhat important",
+    "4": "Very important"
+  },
+  "F_PRAY": {
+    "1": "A few times a month",
+    "2": "A few times a week",
+    "3": "Never",
+    "4": "Once a day",
+    "5": "Once a week",
+    "6": "Seldom",
+    "7": "Several times a day"
+  },
+  "F_RELTRAD": {
+    "1": "Buddhist",
+    "2": "Catholic",
+    "3": "Hindu",
+    "4": "Historic Mainline Protestant Churches",
+    "5": "Historically Black Protestant Churches",
+    "6": "Jehovah's Witness",
+    "7": "Jewish",
+    "8": "Mormon",
+    "9": "Muslim",
+    "10": "Orthodox Christian",
+    "11": "Other Christian",
+    "12": "Other Faiths",
+    "13": "Other World Religions",
+    "14": "Theologically Evangelical Protestant Churches",
+    "15": "Unaffiliated"
+  },
+  "F_INCOME": {
+    "1": "$10,000 to less than $20,000",
+    "2": "$100,000 to less than $150,000",
+    "3": "$150,000 or more",
+    "4": "$20,000 to less than $30,000",
+    "5": "$30,000 to less than $40,000",
+    "6": "$40,000 to less than $50,000",
+    "7": "$50,000 to less than $75,000",
+    "8": "$75,000 to less than $100,000",
+    "9": "Less than $10,000"
+  },
+  "F_INCOME_RECODE": {
+    "1": "<$30,000",
+    "2": "$30-$74,999",
+    "3": "$75,000+"
+  },
+  "F_PARTY_FINAL": {
+    "1": "Democrat",
+    "2": "Independent",
+    "3": "Republican",
+    "4": "Something else"
+  },
+  "F_PARTYLN_FINAL": {
+    "1": "The Democratic Party",
+    "2": "The Republican Party"
+  },
+  "F_PARTYSUM_FINAL": {
+    "1": "DK/Refused/No lean",
+    "2": "Dem/Lean Dem",
+    "3": "Rep/Lean Rep"
+  },
+  "F_REG": {
+    "1": "You are ABSOLUTELY CERTAIN that you are registered to vote at your current address",
+    "2": "You are NOT registered to vote at your current address",
+    "3": "You are PROBABLY registered, but there is a chance your registration has lapsed"
+  },
+  "F_IDEO": {
+    "1": "Very liberal",
+    "2": "Liberal",
+    "3": "Moderate",
+    "4": "Conservative",
+    "5": "Very conservative"
+  },
+  "F_ACSWEB": {
+    "1": "Accesses internet by paying provider",
+    "2": "Does not access the Internet by paying a cell phone company or Internet service provider"
+  },
+  "F_VOLSUM": {
+    "1": "No",
+    "2": "Yes"
+  }
+}
